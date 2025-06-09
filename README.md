@@ -26,6 +26,7 @@ Hi there! This project is a simple React web application I created to allow user
    - `BillingSummary.jsx` shows the price details after a skip is selected.
    - `ThemeToggle.jsx` lets users switch color mode.
    - `TitleSection.jsx` displays a nice heading and subtitle.
+   - `SkipSelector.jsx` displays homepage which includes title, subtitle, product cards, billing summary, color mode change.
 
 4. **Made it responsive** – On desktop, product cards are displayed in a responsive way. On mobile, the product cards adjust their size according to screen size.
 
