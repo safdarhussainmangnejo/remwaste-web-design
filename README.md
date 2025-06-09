@@ -58,11 +58,10 @@ npm run deploy
 ## 🧩 App Preview Screenshots
 
 Here are a few screenshots that show how the Remwaste Skip Selector works:
-
-![Skip Options](https://github.com/user-attachments/assets/e4df69ca-ac05-47f5-8c15-fd4f457c12d6)
-![Dark Mode](https://github.com/user-attachments/assets/a862bc0c-1515-4a45-ae41-d073abe77e85)
 ![Responsive UI](https://github.com/user-attachments/assets/b0291b72-7363-42c3-a021-e0fbb80b1be5)
 ![Billing Summary](https://github.com/user-attachments/assets/5c896684-c0fb-410e-a46b-a3d1a0175a82)
+![Skip Options](https://github.com/user-attachments/assets/e4df69ca-ac05-47f5-8c15-fd4f457c12d6)
+![Dark Mode](https://github.com/user-attachments/assets/a862bc0c-1515-4a45-ae41-d073abe77e85)
 ![Mobile View](https://github.com/user-attachments/assets/0dd189fd-4c42-4900-93cd-d845e49dd18d)
 ![Theme Toggle](https://github.com/user-attachments/assets/6dbd3b04-b6bd-4d78-a7c0-d666f8f6d43a)
 
