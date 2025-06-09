@@ -1,3 +1,11 @@
+# 🧱 Remwaste Skip Selector
+
+A responsive React + Tailwind app for skip selection with billing summary and dark mode toggle.
+Clcik one any of the links given below to preview live project.
+🔗 **Live Site Link 1**: [https://safdarhussainmangnejo.github.io/remwaste-web-design/](https://safdarhussainmangnejo.github.io/remwaste-web-design/)
+
+🔗 **Live Site Link 2**: [https://y2tq65-5173.csb.app/remwaste-web-design/](https://y2tq65-5173.csb.app/remwaste-web-design/)
+
 # 🧱 Remwaste Skip Selector – My Development Approach
 
 Hi there! This project is a simple React web application I created to allow users to choose a skip size for waste disposal. It’s clean, mobile-friendly, and built with modern tools like Vite and Tailwind CSS. Below, I’ve shared the way I approached building it.
